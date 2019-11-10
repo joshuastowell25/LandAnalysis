@@ -2,6 +2,7 @@
 This is a basic Java 8 project that was developed and tested in Eclipse neon.
 
 The domain objects are: Field, Point, and FertileShape.
+
 The control objects are: 
 * Controller: This is the main class that manages execution.
 * IOHelper: This helper class gets user input and prints to stdout.
